@@ -1,0 +1,16 @@
+Crear la pila (CrearPila): La operación de creación de la pila inicia la pila como vacía.
+
+Operaciones para añadir y eliminar elementos de la pila:
+
+- Añadir elementos en la cima (Apilar): pondrá un nuevo elemento en la parte superior de la pila utilizando el comando push el que
+ permitira agrear un elmento a la pila.
+
+- Eliminar elementos de la cima (Desapilar): lo que hará será devolver el elemento superior de la cima y eliminarlo de la pila
+ hasta llegar al ultimo  de los elementos de arriba hacia abajo utilizando el comando  "pop".
+
+- Operaciones para comprobar tanto la información contenida en la pila, como el propio estado de la cima. 
+
+- Comprobar si la pila está vacía (PilaVacia): Esta operación es necesaria para poder decidir si es posible eliminar elementos de la pila, y si no es
+de esta manera poder realizar las eliminaciones de elementos que se requieran para dejar el elemento vacio. 
+
+
