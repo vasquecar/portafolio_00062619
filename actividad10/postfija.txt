@@ -1,0 +1,12 @@
+EJERCICIO 1.
+
+A-B/(C*D$E)
+AB-/C*DE$
+AB-/CDE$*
+AB-CDE$*/
+
+EJERCICIO 2.
+
+((A+B)*C-(D-E))$(F+G)
+AB+C*-(DE-)$(FG+)
+AB+C*DE--FG+$
